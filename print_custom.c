@@ -2,7 +2,6 @@
 
 /**
  * print_bigS - Non printable characters
- * (0 < ASCII value < 32 or >= 127) are
  * printed this way: \x, followed by the ASCII code
  * value in hexadecimal (upper case - always 2 characters)
  * @l: va_list arguments from _printf
